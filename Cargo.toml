@@ -1,0 +1,9 @@
+[package]
+name = "my_parser_prototype"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pest_derive = "2.7.14"
+pest = "2.7.14"
+anyhow = "1.0.91"
